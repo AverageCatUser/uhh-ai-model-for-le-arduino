@@ -1,3 +1,2 @@
 # uhh-ai-model-for-le-arduino
-cool
- forgot how to compile this code do sum
+touch the code but credit me, if you wanna build off of it ask for permission 
